@@ -1,5 +1,5 @@
 # 🌟🌾 **BOON FOR FARMERS** 🌾🌟  
-# 🚀 [CLICK HERE TO LAUNCH THE CHATBOT](https://agriculture-chatbot-hydqjafiydwvcwfwsssxqg.streamlit.app/) 🚀
+# 🚀 https://agriculture-chatbot-publicboon-for-farmers-qwoctqjffdp29opmzuh.streamlit.app 🚀
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 👑 **Created by**: **ANURAG SAINI**  
+## 👑 **Created by**: **MOKSH PASSI**  
 > _This isn’t just a chatbot, it’s a movement — built with heart, soul, code, and a dream to empower the unsung heroes of our land._
 
 ---
