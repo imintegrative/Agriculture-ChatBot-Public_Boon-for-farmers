@@ -14,7 +14,7 @@ st.write("Ask your farming questions — type or upload your voice question belo
 # ----------------------------
 # Load API Key securely (Streamlit Secrets or environment)
 # ----------------------------
-api_key = st.secrets.get("GROQ_API_KEY", os.getenv("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"))
+api_key = st.secrets.get("GROQ_API_KEY", os.getenv("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"))
 
 if not api_key:
     st.error("🚨 Missing GROQ_API_KEY! Please add it in Streamlit Secrets or set the GROQ_API_KEY environment variable.")
@@ -139,5 +139,6 @@ elif option == "Audio":
                         st.write(answer)
                         if audio_path:
                             st.audio(audio_path)
+
 
 
