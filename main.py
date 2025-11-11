@@ -3,7 +3,7 @@ import time
 from groq import Groq
 from gtts import gTTS
 
-groq_client = Groq(api_key="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")
+groq_client = Groq(api_key="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")
 
 def transcribe_audio(filepath):
     with open(filepath, "rb") as f:
@@ -68,4 +68,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
